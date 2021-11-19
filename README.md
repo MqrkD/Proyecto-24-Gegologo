@@ -1,2 +1,2 @@
-Proyecto 24 de Mark Carmona
-Escuela ByJus
+# Geologist
+Geologist Project
